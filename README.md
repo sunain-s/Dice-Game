@@ -26,3 +26,12 @@ Handles all sorts of scenarios given by the prompt
 - functional programming
 - combining knowledge upto that point
 - creating a plan and iterative testing
+
+# Improvements
+Overall clean up of messy code would be initial improvements
+
+I would make many more functions as currently there are multiple reusable sections of code all in a single function, and because I have since become more accustomed to decomposing before coding and creating functions.
+
+Keeping it text based, I would add a dice rolling text art to signify the rolling of the dice, in order to make it more engaging for the user.
+
+Further improvements could include creating a very basic GUI with a dice animation and visually indicating the game's progress.
