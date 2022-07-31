@@ -1,7 +1,7 @@
 # Dice-Game
 Text based 2 player dice game
 
-OCR CS GCSE J277 NEA project choice 2
+OCR CS GCSE J277 2021 NEA option 2
 
 # Requirements
 - The points rolled on each player’s dice are added to their score.
@@ -13,22 +13,20 @@ OCR CS GCSE J277 NEA project choice 2
 - If both  players  have  the  same  score  at  the  end  of  the  5  rounds,  they  each  roll  1  die  and  whoever gets the highest score wins (this repeats until someone wins).
 
 # How I made it
-Text based program that uses functions for main systems
-
-Uses an external file to store users and passwords, read from for verification
-
-Uses an external file to store users and highest winning scores, read from to display top 5 highest scores
+- Text based program that uses procedures for main systems
+- Uses an external file to store users and passwords, read from for verification
+- Uses an external file to store users and highest winning scores, read from to display top 5 highest scores
 
 Handles all sorts of scenarios given by the prompt
 
 # What I learnt
 - r/w from and to .txt files
-- functional programming
-- combining knowledge upto that point
+- procedural programming
+- combining techniques known upto that point
 - creating a plan and iterative testing
 
 # Improvements
-Overall clean up of messy code would be initial improvements
+Overall clean up of messy code would be initial improvements - highly redundant code and unnecesaary 
 
 I would make many more functions as currently there are multiple reusable sections of code all in a single function, and because I have since become more accustomed to decomposing before coding and creating functions.
 
