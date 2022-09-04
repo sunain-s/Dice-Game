@@ -12,6 +12,9 @@ OCR CS GCSE J277 2021 NEA option 2
 - The person with the highest score at the end of the 5 rounds wins.
 - If both  players  have  the  same  score  at  the  end  of  the  5  rounds,  they  each  roll  1  die  and  whoever gets the highest score wins (this repeats until someone wins).
 
+# How To Run
+Run 'main.py' with any supported python 3 version and play in command line
+
 # How I made it
 - Text based program that uses procedures for main systems
 - Uses an external file to store users and passwords, read from for verification
